@@ -1,0 +1,17 @@
+{
+  "name": "Black Text on White Background",
+  "version": "1.0",
+  "description": "Chrome Extension to keep danbenjamin sane.",
+  "background_page": "background.html",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "permissions": [
+      "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "name": "Make page black text on white background",
+      "icons": ["icon.png"],
+	  "default_icon" : "icon48.png"
+  }
+}
