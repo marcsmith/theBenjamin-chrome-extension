@@ -1,7 +1,7 @@
 {
   "name": "Black Text on White Background",
   "version": "1.0",
-  "description": "Chrome Extension to keep danbenjamin sane.",
+  "description": "Chrome Extension to delight danbenjamin.",
   "background_page": "background.html",
   "icons": { "16": "icon16.png",
            "48": "icon48.png",
