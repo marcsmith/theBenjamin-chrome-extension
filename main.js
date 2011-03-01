@@ -1,6 +1,6 @@
 (function() {
 
-	var types = ['html', 'body', 'div', 'pre', 'span', 'code', 'table', 'td', 'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'];
+	var types = ['html', 'body', 'div', 'pre', 'span', 'code', 'table', 'td', 'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'strong', 'em'];
 
 	var init = function() {
 		//change the bg color and text color for our list of nodes
